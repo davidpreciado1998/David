@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace PrácticaObjetos {
     class Persona {
+        //Modificadores de acceso
+        //public y private
+
         // Atributos
         // Definidos a través de variables
         public string nombre;
